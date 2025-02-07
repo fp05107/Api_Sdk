@@ -45,3 +45,7 @@ export {
     getAshtakvarga_with_tracking as getAshtakvarga,
     getSarvashtakvarga_with_tracking as getSarvashtakvarga,
 };
+
+// npx javascript-obfuscator ./src --output ./dist --compact true --self-defending true
+// npm pack
+// npm i ../subu1234-astrosdk-1.1.15.tgz
