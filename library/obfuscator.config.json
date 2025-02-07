@@ -1,0 +1,10 @@
+{
+    "compact": true,
+    "selfDefending": true,
+    "disableConsoleOutput": true,
+    "transformObjectKeys": true,
+    "stringArrayEncoding": ["rc4"],
+    "stringArrayThreshold": 0.8,
+    "ignoreRequireImports": true
+  }
+  
